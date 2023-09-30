@@ -1,6 +1,6 @@
 ItemName_FR = {
 
-/*BWC Hats */
+/*BWC Cap */
 
 	ItemName_Base.CBX_CAPARM_1 = "Casquette militaire Camouflage Forêt",
 	ItemName_Base.CBX_CAPARM_2 = "Casquette militaire Camouflage Urbain",
@@ -16,10 +16,10 @@ ItemName_FR = {
 	ItemName_Base.CBX_Sumk_1_R = "Sac Postal",	
 	ItemName_Base.CBX_Sumk_1M_L = "Sac Médical",
 	ItemName_Base.CBX_Sumk_1M_R = "Sac Médical",	
-	ItemName_Base.CBX_Sumk_2_L = "Trousse Trauma Multi-Personnes",
-	ItemName_Base.CBX_Sumk_2_R = "Trousse Trauma Multi-Personnes",
-	ItemName_Base.CBX_HR = "Sac à dos de Terrain",
-	ItemName_Base.CBX_ANAT = "Sac à dos d'Assaut",	
+	ItemName_Base.CBX_Sumk_2_L = "Trousse Trauma Militaire",
+	ItemName_Base.CBX_Sumk_2_R = "Trousse Trauma Militaire",
+	ItemName_Base.CBX_HR = "Sac à dos de Chasseur",
+	ItemName_Base.CBX_ANAT = "Grand Sac à dos",	
 	ItemName_Base.CBX_Sumk_3_L = "Sac de Messager",
 	ItemName_Base.CBX_Sumk_3_R = "Sac de Messager",	
 	ItemName_Base.CBX_Sumk_4_L = "Sac à Livres",
@@ -31,8 +31,8 @@ ItemName_FR = {
 	ItemName_Base.CBX_Sumk_7_R = "Pochette de Jambe",	
 	ItemName_Base.CBX_Sumk_8P = "Sac Banane Militaire",
 	ItemName_Base.CBX_Sumk_8 = "Sac Banane Militaire",
-	ItemName_Base.CBX_RUKSAK = "Sac à dos de Chasse",
-	ItemName_Base.CBX_RUKSAK2 = "SPOSN Sac à dos Tortilla",
+	ItemName_Base.CBX_RUKSAK1 = "Vieux sac à dos de touriste",
+	ItemName_Base.CBX_RUKSAK2 = "Grand sac à dos de touriste",
 	
 /*BWC Suits */
 
@@ -91,8 +91,8 @@ ItemName_FR = {
 	ItemName_Base.CBX_SP1 = "Coupe Vent",
 	ItemName_Base.CBX_Kurtk_5OP = "Cardigan",
 	ItemName_Base.CBX_Kurtk_5 = "Cardigan",
-	ItemName_Base.CBX_Kurtk_6OP = "Veste Bomber Samurai",	
-	ItemName_Base.CBX_Kurtk_6 = "Veste Bomber Samurai",	
+	ItemName_Base.CBX_Kurtk_6OP = "Veste Bomber Samuraï",	
+	ItemName_Base.CBX_Kurtk_6 = "Veste Bomber Samuraï",	
 	ItemName_Base.CBX_RUBOP = "Pardessus",
 	ItemName_Base.CBX_RUB = "Pardessus",
 	ItemName_Base.CBX_Kurtk_7OP = "Manteau Classique",	
@@ -123,7 +123,7 @@ ItemName_FR = {
 	ItemName_Base.CBX_LIF2 = "Brassière",
 	ItemName_Base.CBX_LIF3 = "Brassière de Leia",	
 	
-/*Glasses */
+/*BWC Glasses */
 
 	ItemName_Base.CBX_Glasses_1 = "Lunettes de Soudure",
 	ItemName_Base.CBX_Glasses_2 = "Aviators à Verres Correcteurs",
