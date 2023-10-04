@@ -31,6 +31,7 @@ ItemName_FR = {
 	ItemName_Base.CBX_Sumk_7_R = "Pochette de Jambe",	
 	ItemName_Base.CBX_Sumk_8P = "Sac Banane Militaire",
 	ItemName_Base.CBX_Sumk_8 = "Sac Banane Militaire",
+	ItemName_Base.CBX_RUKSAK = "Sac à dos de chasse",
 	ItemName_Base.CBX_RUKSAK1 = "Vieux sac à dos de touriste",
 	ItemName_Base.CBX_RUKSAK2 = "Grand sac à dos de touriste",
 	
